@@ -14,7 +14,7 @@ private:
 public:
 	singly_linklist():head(NULL),temp(NULL){}
 
-////////////add node at the end//////////
+/////////////add node at the end//////////
 
 	void append(int value){
 		if(head == NULL){
